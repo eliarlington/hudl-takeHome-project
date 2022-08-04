@@ -5,8 +5,8 @@
 * Invalid password, help sign in, help sign in with invalid credentials, login
 * with org landing page validation, and remember me check box.
 
-** It was challenging finding a way to safley encrypt credentials.
-
+** It was challenging finding a way to safely encrypt credentials.
+** Use config.properties.example to add credentials
 
 * My steps:
 
@@ -21,6 +21,6 @@
 
 ** If I had more time to work on this project I would improve it in the following ways:
 * Add page object for a cleaner and more reusable project
-* Create utility methods page for reusable funtions and elements
+* Create utility methods page for reusable functions and elements
 * Use assertion for validation
 * Handle waits more efficiently
