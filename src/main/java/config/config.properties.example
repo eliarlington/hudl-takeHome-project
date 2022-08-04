@@ -1,0 +1,5 @@
+url = https://www.hudl.com/login
+email = test@gmail.com
+password = password
+invalidEmail = invalid@gmail.com
+invalidPassword = password
