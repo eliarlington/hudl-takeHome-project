@@ -7,7 +7,7 @@ import java.util.Properties;
 public class ConfigReader {
     public static Properties getPropertyObject() throws IOException {
         //Read file and Create file path
-        FileInputStream file = new FileInputStream("/Users/eliasarlington/Documents/Source/Hudl/src/main/java/config/config.proporties");
+        FileInputStream file = new FileInputStream(System.getProperty("user.dir") + "/src/main/java/config/config.properties");
 
         //Create obj of properties
         Properties prop = new Properties();
