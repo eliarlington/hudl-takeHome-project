@@ -20,6 +20,7 @@
 
 
 ** If I had more time to work on this project I would improve it in the following ways:
+* Add page object for a cleaner and more reusable project
 * Create utility methods page for reusable funtions and elements
 * Use assertion for validation
 * Handle waits more efficiently
